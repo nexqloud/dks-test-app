@@ -54,3 +54,6 @@ artifacts/
 # Next.js/Nuxt/etc (harmless if unused)
 .next/
 .nuxt/
+
+
+kubeconfig-*
